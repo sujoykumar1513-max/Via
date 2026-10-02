@@ -1,7 +1,7 @@
 {
   "appName": "Via",
-  "version": "2.1.8",
-  "forceUpdate": off,
+  "version": "2.1.7",
+  "forceUpdate": true,
   "updateUrl": "https://t.me/httpstmeX_0kS2M_m2JkNjI1",
   "btnUpdateText": "UPDATE NOW",
   "btnExitText": "EXIT",
